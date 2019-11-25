@@ -1,7 +1,7 @@
 # Maintainer: Laurent Haar laurent.haar@epitech.eu
 pkgname=blih-custom
 pkgver=1.0
-pkgrel=4
+pkgrel=1
 pkgdesc="Bocal Lightweight Interface for Humans, git repositories and SSH public keys management tool for EPITECH students"
 arch=('any')
 url="https://intra-bocal.epitech.eu"

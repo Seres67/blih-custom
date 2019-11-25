@@ -45,7 +45,7 @@ class blih:
         else:
             self.token_calc()
         if user == None:
-            self._user = SET_USER
+            self._user = BLIH_USER
 
         else:
             self._user = user
